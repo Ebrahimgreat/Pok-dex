@@ -43,11 +43,3 @@ Navigate through regions, explore locations, and discover which Pokémon can be 
 🚧 Improved error handling and user-friendly messages  
 
 ---
-
-## Installation
-
-Clone this repo:
-
-```bash
-git clone https://github.com/<your-username>/pokedex-cli.git
-cd pokedex-cli
