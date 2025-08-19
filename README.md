@@ -28,18 +28,10 @@ Navigate through regions, explore locations, and discover which Pokémon can be 
 
 ## Features
 
-✅ Caching of API responses for faster repeated queries  
-✅ Explore Pokémon by location area  
-✅ Move through the map with `map`, `mapb` (back), and `mapf` (forward)  
-✅ Simple CLI command system (`help`, `exit`, etc.)
+✅ Caching of API responses: Speeds up repeated queries by storing API results locally.
+✅ Explore Pokémon by location area: Discover Pokémon in different regions.
+✅ Map Navigation: Move through the map using commands: map, mapb (back), mapf (forward).
+✅ Simple CLI commands: Includes help, exit,map,map-b,catch,inspect,caught.
+✅ Catch Pokémon: Add Pokémon to your Pokédex and keep track of your collection.
+✅ View Abilities & Types: See detailed abilities and types for each Pokémon you catch.
 
----
-
-## In Progress / Planned Features
-
-🚧 Show detailed Pokémon stats (abilities, types, base experience)  
-🚧 **Catch Pokémon** – users will be able to catch Pokémon they encounter, filling up their personal Pokédex 🎮  
-🚧 More unit tests for stability and maintainability  
-🚧 Improved error handling and user-friendly messages  
-
----
